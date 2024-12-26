@@ -1,4 +1,6 @@
-## Hi there 👋
+- 👋 Hi, my name is Can. I'm a Full-Stack Developer who loves using Typescript and Next.js in my projects. I'm always eager to learn more and improve my skills.
+- Currently, I'm working hard to get into college.
+- ☕ Let's grab a coffee: [ko-fi.com/rivalth](https://ko-fi.com/rivalth)
 
 <!--
 **rivalth/rivalth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
