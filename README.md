@@ -1,5 +1,5 @@
 - 👋 Hi, my name is Can. I'm a Full-Stack Developer who loves using Typescript and Next.js in my projects. I'm always eager to learn more and improve my skills.
-- Currently, I'm working hard to get into college.
+- Currently, I'm working to improve my portfolio by doing projects.
 - ☕ Let's grab a coffee: [ko-fi.com/rivalth](https://ko-fi.com/rivalth)
 
 <!--
